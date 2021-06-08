@@ -1,0 +1,36 @@
+p {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: dashed;
+}
+
+span.world {
+    color: white;
+    background-color: black;
+}
+
+span.ray {
+    color:red;
+    background-color: darkgreen;
+}
+
+span.oscar {
+    color:orange;
+    background-color: darkblue;
+}
+
+span.gwen {
+    color:green;
+    background-color: darkred;
+}
+
+span.bob {
+    color:blue;
+    background-color: darkorange;
+}
+
+span.marie {
+    color:magenta;
+    background-color: darkcyan;
+}
